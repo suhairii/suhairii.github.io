@@ -1150,7 +1150,7 @@ section {
 
 .book-a-table .php-email-form .validate {
   display: none;
-  color: red;
+  color: #5cb85c;
   margin: 0 0 15px 0;
   font-weight: 400;
   font-size: 13px;
@@ -1159,10 +1159,11 @@ section {
 .book-a-table .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #28a745;
   text-align: left;
   padding: 15px;
   font-weight: 600;
+  
 }
 
 .book-a-table .php-email-form .error-message br+br {
@@ -1476,7 +1477,7 @@ section {
 
 .contact .php-email-form .validate {
   display: none;
-  color: red;
+  color: #5cb85c;
   margin: 0 0 15px 0;
   font-weight: 400;
   font-size: 13px;
@@ -1485,7 +1486,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #5cb85c;
   text-align: center;
   padding: 15px;
   font-weight: 600;
